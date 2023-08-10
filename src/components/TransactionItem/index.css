@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.list-container {
+  border: solid 1px #d7dfe9;
+  border-top: none;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.contents-container {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.delete-image {
+  width: 20px;
+}
